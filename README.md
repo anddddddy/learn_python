@@ -1,5 +1,4 @@
-# learn_python
-# project overview:
+# learn_python project overview:
 Several practice projects during learning python.
 
 
