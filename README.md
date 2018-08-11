@@ -1,5 +1,5 @@
 # learn_python project overview:
-Several practice projects during learning python.
+Several practice projects during learning PYTHON.
 
 
 # For example:
